@@ -1,0 +1,1 @@
+Temporarily utilize [Spotify Authorization Code example](https://github.com/spotify/web-api-examples/tree/master/authorization/authorization_code) to generate Spotify access token.
